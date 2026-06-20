@@ -8,6 +8,7 @@ A deep learning system for recognizing handwritten words in images. The project 
 
 The dataset used can be found here:
 
+
 https://www.kaggle.com/datasets/ssarkar445/handwriting-recognitionocr
 
 ---
